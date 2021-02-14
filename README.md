@@ -66,6 +66,14 @@
 <img align="center" alt="Alynva's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Alynva&show_icons=true&hide_border=true&count_private=true" />
 </p>
 
+---
+
+<p align="center">
+<a href="https://www.buymeacoffee.com/Alynva">
+  <img width="500px" src="https://img.buymeacoffee.com/api/?url=aHR0cHM6Ly9pbWcuYnV5bWVhY29mZmVlLmNvbS9hcGkvP3VybD1hSFIwY0hNNkx5OWpaRzR1WW5WNWJXVmhZMjltWm1WbExtTnZiUzkxY0d4dllXUnpMM0J5YjJacGJHVmZjR2xqZEhWeVpYTXZNakF5TVM4d01pODJZbUZtWXpKaE56SXdPRFk1WW1VNU1XVXlORGcwWXpFeVpXRmpOMk0wTVM1cWNHYz0mc2l6ZT0zMDAmbmFtZT1BbHludmE=&creator=Alynva&is_creating=throwing%20code&design_code=1&design_color=%235F7FFF&slug=Alynva">
+</a>
+</p>
+
 [website]: https://alynva.com
 [consulta]: http://consultapublica.com.br/
 [twitter]: https://twitter.com/Alynva

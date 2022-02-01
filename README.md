@@ -63,6 +63,14 @@
 ---
 
 <p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img align="center" alt="Alynva's Github Trophies" src="https://github-profile-trophy.vercel.app/?username=Alynva" />
+</a>
+</p>
+
+---
+
+<p align="center">
 <img align="center" alt="Alynva's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Alynva&show_icons=true&hide_border=true&count_private=true" />
 </p>
 

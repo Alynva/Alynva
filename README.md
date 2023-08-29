@@ -1,5 +1,6 @@
 ### Hi there, I'm Alisson - aka [Alynva][website] 👋
 
+- 🚀 [Astro][astro] `pt-BR` translator
 - 🔭 I’m currently working on [Consulta Pública][consulta]!
 - 🌱 I’m currently learning ML and AWS
 - 👯 I’m looking to collaborate on tiny libraries
@@ -63,6 +64,14 @@
 ---
 
 <p align="center">
+<a href="https://astro.badg.es/v1/contributor/Alynva/">
+  <img src="https://astro.badg.es/v1/contributor/Alynva.svg" alt="@Alynva Astro contributions" width="300" height="200">
+</a>
+</p>
+
+---
+
+<p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img align="center" alt="Alynva's Github Trophies" src="https://github-profile-trophy.vercel.app/?username=Alynva" />
 </a>
@@ -88,3 +97,4 @@
 [youtube]: https://youtube.com/Alynva
 [instagram]: https://instagram.com/Alynva
 [linkedin]: https://linkedin.com/in/Alynva
+[astro]: https://astro.build
